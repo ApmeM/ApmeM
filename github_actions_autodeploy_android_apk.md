@@ -1,5 +1,7 @@
 ## Deploy android application using github actions.
 
+Idea is taken from here: https://www.freecodecamp.org/news/use-github-actions-to-automate-android-development/
+
 ### Create service account
 
 A service account is an entity that you create that tells services or applications it interacts with that it is operating on your behalf.
